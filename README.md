@@ -38,6 +38,11 @@ The ```config.js``` file consists of the following properties:
 * __packages__: A list of the package file names included in the bot
 
 ---
+## Packages
+
+A few packages could be found over [here](https://tantialex.github.io/Discord-Package-Bot/packages)
+
+---
 ## Adding a package
 
 To add a package simply:
