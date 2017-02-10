@@ -1,6 +1,6 @@
 
 # Discord-Package-Bot
----
+
 A discord-bot package manager built on nodeJs. 
 This discord wrapper based on Discordie helps structure a discord bot to be more 
 diverse in a simpler way. By adding packages, you are in control of all the 
@@ -27,8 +27,8 @@ $ node app.js
 ## Adding a package
 
 To add a package simply:
-	Add the package files to the dir/packages
-	Add the package js file name to the 'package' array in config.js
+* Add the package files to the dir/packages
+* Add the package js file name to the 'package' array in config.js
 
 ---
 ## Creating your own package
@@ -71,8 +71,8 @@ commands can be added in the form of an array. There is currently no
 limit as to how many commands a package may contain.
 
 Each command has:
-*alias: which is the command-word the user will need to enter to execute the function.
+* alias: which is the command-word the user will need to enter to execute the function.
 * help: a description of the function which will be displayed on the help command.
-*execute: the function that will run when the command is called.
-*commands: sub-commands ex: video play, video stop. Play and stop are sub-commands for video.
+* execute: the function that will run when the command is called.
+* commands: sub-commands ex: video play, video stop. Play and stop are sub-commands for video.
 
