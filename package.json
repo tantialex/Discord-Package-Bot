@@ -1,0 +1,30 @@
+{
+  "name": "discord-package-bot",
+  "version": "0.0.1",
+  "description": "A discord bot package manager based on Discordie to group multiple bot functions into one bot, creating diverse bots by adding different packages.",
+  "main": "app.js",
+  "dependencies": {
+    "discordie": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tantialex/Discord-Package-Bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "packages",
+    "manager",
+    "discordie"
+  ],
+  "author": "https://github.com/tantialex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tantialex/Discord-Package-Bot/issues"
+  },
+  "homepage": "https://github.com/tantialex/Discord-Package-Bot#readme"
+}
